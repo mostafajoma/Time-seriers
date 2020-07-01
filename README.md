@@ -9,7 +9,7 @@ The financial departments of large companies often deal with foreign currency tr
 
 #### Time-Series Forecasting
 
-loaded historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behavior.
+loaded historical Dollar-Yen exchange rate futures data and applied time series analysis and modeling to determine whether there is any predictable behavior.
 
 1. Decomposition using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
 2. Forecasting Returns using an ARMA Model.
