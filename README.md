@@ -85,3 +85,13 @@ Note, our p-values for GARCH and volatility forecasts tend to be much lower than
 3. Making predictions using the testing data.
 4. Out-of-sample performance.
 5. In-sample performance.
+
+
+#### The first 20 predictions vs the true values
+![regression](images/reg.png)
+
+## Please read *conclusions.md* to read the conclusion for the full Analysis
+
+
+# Built With
+Python 3
