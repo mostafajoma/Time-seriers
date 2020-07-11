@@ -90,7 +90,7 @@ Note, our p-values for GARCH and volatility forecasts tend to be much lower than
 #### The first 20 predictions vs the true values
 ![regression](images/reg.png)
 
-## Please read *conclusions.md* to read the conclusion for the full Analysis
+## Please check *conclusions.md* to read the full Analysis
 
 
 # Built With
